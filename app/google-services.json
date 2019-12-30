@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "931543225589",
+    "firebase_url": "https://laravelfirebase-fbf85.firebaseio.com",
+    "project_id": "laravelfirebase-fbf85",
+    "storage_bucket": "laravelfirebase-fbf85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931543225589:android:1a82424d58157b7109e1bc",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931543225589-6n3rk54jec1ph64a6l38g2i0ecmtopas.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "0ceefe8af36bb254ba22931ffd0d69021c88a53f"
+          }
+        },
+        {
+          "client_id": "931543225589-p87tlev6um72j17kkij5odf3ka1auc06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC78Jz7uTfoM23-xbzDDKpdGgaJFNFW88I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931543225589-p87tlev6um72j17kkij5odf3ka1auc06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
